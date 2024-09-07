@@ -15,7 +15,7 @@ function Home2() {
         <Container fluid className="home-about-section" id="about">
             <Container>
                 <Row>
-                    <Col md={3} className="myAvtar">
+                    <Col md={3} className="myAvtar d-none d-md-flex">
                         <Tilt>
                             <img
                                 src={aboutMain1}
@@ -57,7 +57,23 @@ function Home2() {
                             conosco.
                         </p>
                     </Col>
-                    <Col md={3} className="myAvtar">
+                    <Col md={3} className="myAvtar d-none d-md-flex">
+                        <Tilt>
+                            <img
+                                src={aboutMain2}
+                                className="img-fluid"
+                                alt="avatar"
+                            />
+                        </Tilt>
+                    </Col>
+                    <Col md={3} className="myAvtar d-flex d-md-none px-4">
+                        <Tilt>
+                            <img
+                                src={aboutMain1}
+                                className="img-fluid"
+                                alt="avatar"
+                            />
+                        </Tilt>
                         <Tilt>
                             <img
                                 src={aboutMain2}
