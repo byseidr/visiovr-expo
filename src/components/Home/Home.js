@@ -29,11 +29,12 @@ function Home() {
                             </h1>
 
                             <h1 className="heading-name">
-                                Nós somos a
+                                Nós somos a{" "}
                                 <img
                                     className="text-logo"
                                     alt="VisioVR"
                                     src={textLogo}
+                                    style={{ marginBottom: "6px" }}
                                 />
                             </h1>
 
