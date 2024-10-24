@@ -350,8 +350,12 @@ button:focus {
     text-align: center;
 }
 
+.home-about-description h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 .home-about-body {
-    padding-top: 50px;
     font-size: 1.2em !important;
     text-align: center;
 }

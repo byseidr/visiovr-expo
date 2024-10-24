@@ -26,13 +26,26 @@ function Home2() {
                             melhor
                         </h1>
                         <p className="home-about-body">
-                            Somos uma empresa{" "}
+                            Somos uma {" "}
                             <i>
                                 <b>startup</b>
                             </i>{" "}
                             especializada no desenvolvimento de aplicações
-                            voltadas para a vasta área da realidade virtual e
+                            voltada para a educação utilizando realidade virtual e
                             realidade aumentada.
+                            <br />
+                            <br />
+                            Os <span className="purple">Ambientes Virtuais de Aprendizagem (AVAs)</span> apresentam algumas limitações, oferecendo uma estrutura linear e estática para a organização de
+                            disciplinas e conteúdos, sem explorar o potencial das tecnologias imersivas para promover interatividade,
+                            personalização e engajamento profundo no processo de aprendizagem. 
+                            <br />
+                            <br />
+                            Explorando o potencial dessas tecnologias imersivas, o <span className="purple">VISIOVR</span> oferece novas possibilidades para a
+                            organização de conteúdos educacionais, propondo uma reestruturação das metodologias de ensino e da
+                            interação dos alunos com o material didático. 
+                        </p>
+
+                        <p className="home-about-body">
                             <br />
                             <br />
                             Acreditamos que, com o poder da <b>computação</b> é

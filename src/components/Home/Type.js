@@ -6,11 +6,9 @@ function Type() {
         <Typewriter
             options={{
                 strings: [
+                    "Aplicações Educacionais",
                     "Realidade Virtual",
                     "Realidade Aumentada",
-                    "Aplicações Educacionais",
-                    "Aplicações de Saúde",
-                    "Aplicações Empresariais",
                 ],
                 autoStart: true,
                 loop: true,
